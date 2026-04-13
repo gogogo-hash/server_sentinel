@@ -1,5 +1,24 @@
 # ServerSentinel
 
+
+
+
+## Purpose
+
+This project is a small learning exercise created while getting familiar with Elixir.
+The goal was to understand:
+- periodic work and polling
+- lightweight processes
+- basic state handling
+- how failure could be isolated and restarted
+
+It is intentionally minimal and not intended as a production monitoring solution.
+
+
+
+
+
+
 **TODO: Add description**
 
 ## Installation
